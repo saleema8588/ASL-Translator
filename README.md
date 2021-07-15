@@ -1,1 +1,1 @@
-# Gesture
+Team 2 (Hand Gesture Recognition): The goal of this project is to create a translation device between American Sign Language and English. A person would sign into a camera and it would be translated into English and spoken using text to speech. An additional possibility is to also overlay the video of the signing with subtitles. Maybe you could even have multiple language options which are toggled using switches on the board.
